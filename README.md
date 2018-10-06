@@ -7,7 +7,7 @@ Civilia has many problems:
 - Unimplemented save/load functionality
 - Looking back, I would have used enumerated types for describing terrain.
 
-#Licenses
+# Licenses
 The entirety of the code for Civilia is licensed with the MIT license. See LICENSE-MIT.MD
 
 The entirety of the images included in the images directory are hereby licensed with Attribution 4.0 International (CC BY 4.0). https://creativecommons.org/licenses/by/4.0/
